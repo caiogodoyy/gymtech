@@ -1,0 +1,30 @@
+exemplo@cesar.school
+senha1234
+Nome Exemplo
+Empresa
+Plano
+cgvg@cesar.school
+senha2345
+Caio Godoy
+Cesar
+Basic
+ffcl@cesar.school
+senha3456
+Felipe Leao
+Cesar
+Silver
+jglsc@cesar.school
+senha4567
+Joao Guilherme
+Cesar
+Gold
+popg@cesar.school
+senha5678
+Pedro Guerra
+Cesar
+Platinum
+rac@cesar.school
+senha6789
+Rafael Carvalho
+Cesar
+Black
